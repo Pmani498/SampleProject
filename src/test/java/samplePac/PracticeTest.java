@@ -1,8 +1,10 @@
 package samplePac;
 
-public class PracticeTest {
+import org.testng.annotations.Test;
 
-	public static void main(String[] args) {
+public class PracticeTest {
+@Test
+	public void sample() {
           System.out.println("First github project");
           System.out.println("Second github project");
           System.out.println("Third github project");
