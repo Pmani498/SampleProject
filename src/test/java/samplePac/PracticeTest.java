@@ -7,9 +7,7 @@ public class PracticeTest {
 	public void sample() {
           System.out.println("First github project");
           System.out.println("Second github project");
-          System.out.println("Third github project");
-          System.out.println("First github project");
-          
+         
 	}
 
 }
